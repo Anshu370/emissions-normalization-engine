@@ -145,5 +145,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://emissions-normalization-engine.vercel.app/",
+    "https://emissions-normalization-engine.vercel.app",
 ]
