@@ -1,0 +1,101 @@
+BookingID,EmployeeID,ExpenseType,Origin,Destination,TravelClass,HotelName,Nights,TransportType,Distance,DistanceUnit,TravelDate,Vendor,Amount
+TRV9001,EMP001,,Delhi,Mumbai,Business,,0,Air,1400.0,km,2026-01-01,IndiGo,15000.0
+TRV9002,EMP002,Flight,,Bangalore,Economy,,0,Air,2200.0,km,2026-01-05,Air India,25000.0
+TRV9003,EMP003,Taxi,Noida,Delhi,,,0,Road,-15.0,km,2026-01-10,Uber,700.0
+TRV9004,EMP004,Train,Lucknow,Lucknow,Economy,,0,Rail,0.0,km,2026-01-15,IRCTC,500.0
+TRV9005,EMP005,Flight,Delhi,New York,First,,0,Air,999999.0,km,2026-01-20,Air India,900000.0
+TRV9006,EMP006,Bus,Kanpur,Agra,,,0,Road,280.0,liters,2026-01-22,Ola,1200.0
+TRV9007,EMP007,Hotel,Mumbai,,,Taj Hotel,4,,30.0,km,2026-01-25,Marriott,45000.0
+TRV0008,EMP535,Rental Car,New Manuelstad,Stanleymouth,Business,Marsh Inc,8,Road,12521.8,miles,2025-07-27,Ola,32502.24
+TRV0009,EMP580,Hotel,East Emma,East Matthew,First,"Lopez, Galloway and May",2,Air,12829.93,miles,2026-01-09,Ola,33817.67
+TRV0010,EMP660,Hotel,Heidistad,New Adrienne,Business,Brown Inc,1,Road,9806.54,km,2025-09-29,IRCTC,96671.36
+TRV0011,EMP480,Taxi,North Brandonborough,East Whitneyton,Business,"Rogers, Logan and Curtis",6,Air,9476.9,km,2025-10-10,Uber,160066.31
+TRV0012,EMP848,Taxi,Port Debra,West Nicole,Economy,Harris Inc,3,Rail,3992.06,miles,2025-08-01,Ola,96814.12
+TRV0013,EMP391,Taxi,East Timothystad,East Nicholas,Economy,Anderson Ltd,4,Rail,3790.51,km,2025-11-06,IRCTC,126371.36
+TRV0014,EMP771,Taxi,West Ginaside,New Patrick,First,"Smith, Powell and King",6,Rail,14742.84,miles,2026-03-30,Marriott,45892.99
+TRV0015,EMP689,Rental Car,Davisville,Donnaburgh,First,Martin-Shepard,9,Road,11664.87,miles,2025-09-24,Marriott,70561.72
+TRV0016,EMP684,Train,Murphyport,Aprilview,Business,Taylor-Santiago,9,Air,9778.17,miles,2025-10-30,Uber,137319.08
+TRV0017,EMP282,Rental Car,Port John,Kellyberg,First,"Herrera, Miller and Graham",1,Rail,9411.45,km,2026-01-01,Uber,53661.44
+TRV0018,EMP351,Rental Car,North Davidberg,Wilcoxmouth,First,"Phillips, Owens and Robinson",5,Rail,13874.55,km,2025-11-22,Uber,11668.12
+TRV0019,EMP502,Flight,Cindyfort,Lake Janet,First,Walton Ltd,1,Rail,8758.69,miles,2025-11-12,Uber,61103.39
+TRV0020,EMP569,Hotel,Mistyland,South Kathleenborough,Economy,Taylor-Bennett,7,Road,4158.24,km,2025-06-26,IndiGo,133709.45
+TRV0021,EMP860,Flight,Zimmermanstad,New Annaton,Business,"Carrillo, Valdez and Maldonado",1,Rail,10628.33,km,2026-02-16,Ola,126709.54
+TRV0022,EMP901,Flight,Meganville,Mooremouth,Business,Hopkins-Potts,6,Air,3038.69,km,2025-11-23,IRCTC,101648.8
+TRV0023,EMP372,Bus,Ronaldstad,Mckenzieshire,First,Fry-Grant,6,Road,6893.47,km,2026-03-08,Ola,163537.61
+TRV0024,EMP497,Bus,Lake William,Lake Sarahview,Economy,Martinez-Myers,9,Air,9074.62,km,2025-11-24,Ola,163143.8
+TRV0025,EMP927,Flight,Port Markton,Hallmouth,Economy,"Williams, Bush and Lamb",10,Road,447.17,miles,2026-05-06,Uber,164721.99
+TRV0026,EMP552,Hotel,West Reneefurt,Wigginsport,Business,"Hendricks, Bell and Soto",6,Road,2692.84,miles,2026-01-14,IRCTC,72714.94
+TRV0027,EMP155,Hotel,Jenkinsfurt,Adammouth,Economy,Baker-White,7,Rail,5302.41,km,2026-02-24,Uber,114659.6
+TRV0028,EMP142,Bus,Rodriguezmouth,Kingport,Business,"Brooks, Hale and Hardin",2,Rail,7799.16,km,2026-04-13,Marriott,1118.9
+TRV0029,EMP172,Bus,Moyermouth,South Jessica,Economy,Woodard-Clark,7,Air,3861.67,km,2026-05-17,IndiGo,121279.83
+TRV0030,EMP438,Taxi,Richardville,Port Danielleburgh,Business,"Taylor, Merritt and Mann",10,Road,4443.62,miles,2026-01-26,Ola,192551.35
+TRV0031,EMP273,Taxi,Lake Samuel,Cynthiahaven,Economy,"Morales, Cantrell and Herrera",9,Air,14623.31,miles,2026-02-21,Marriott,70317.37
+TRV0032,EMP724,Taxi,Christianside,Territown,Business,Henry-Cross,7,Rail,1151.59,km,2025-12-30,IRCTC,181980.84
+TRV0033,EMP937,Bus,Jessicaton,Hansonside,Business,"Armstrong, Ewing and Molina",8,Rail,5684.72,miles,2025-07-30,Ola,84131.17
+TRV0034,EMP476,Train,Perezport,South Melaniefurt,First,White Inc,1,Rail,10877.76,km,2025-10-14,IndiGo,175535.27
+TRV0035,EMP680,Flight,Phillipsville,Greenebury,First,Graves Inc,4,Rail,1479.79,km,2025-08-12,Ola,99198.08
+TRV0036,EMP288,Hotel,Robertstad,South Lisaville,First,Wilson-Valdez,6,Rail,13426.21,km,2026-02-07,Uber,85663.44
+TRV0037,EMP260,Rental Car,New Theresamouth,Samanthaville,Economy,Barr Group,2,Road,1835.67,miles,2025-07-05,Ola,28866.96
+TRV0038,EMP526,Rental Car,Norrisfort,Robertsshire,Economy,Ingram-Robles,9,Road,8926.37,km,2026-04-05,Air India,61478.46
+TRV0039,EMP961,Bus,Smithview,Emilybury,Business,Allen-Harper,4,Road,7911.87,km,2026-03-21,IRCTC,122696.64
+TRV0040,EMP425,Hotel,North Joeburgh,Port Scott,Economy,"Miller, Ford and Wilson",4,Rail,14745.79,miles,2025-07-18,Ola,126922.36
+TRV0041,EMP753,Rental Car,Sotomouth,Penachester,Business,Russell Inc,10,Air,5783.31,km,2025-09-07,IRCTC,164560.53
+TRV0042,EMP614,Rental Car,Leachview,North Shelley,Economy,Bradley Group,4,Rail,7804.33,miles,2025-09-13,IRCTC,44890.28
+TRV0043,EMP960,Hotel,New Eddie,North Matthew,Economy,Rodriguez LLC,9,Road,8394.09,km,2026-02-07,IRCTC,125960.95
+TRV0044,EMP711,Flight,Davidsonton,Ericabury,Economy,Herring-Hunter,4,Air,8159.87,miles,2025-06-07,Uber,119326.46
+TRV0045,EMP927,Flight,Port Jose,North Victoria,Business,Barr-Green,3,Road,9738.57,km,2025-10-13,IndiGo,162000.63
+TRV0046,EMP720,Bus,Briggsland,Haileymouth,Economy,"Fisher, Taylor and Reid",5,Rail,7136.46,miles,2025-07-10,Uber,137538.19
+TRV0047,EMP311,Rental Car,East Keithborough,Lake Nancy,First,"Graham, Patterson and Love",8,Rail,8186.85,km,2025-08-27,Uber,38720.58
+TRV0048,EMP716,Train,South Andrea,New Cassie,First,"Cline, Marshall and Crawford",7,Road,557.42,km,2026-03-03,Ola,89125.48
+TRV0049,EMP861,Flight,East Jenniferton,East William,Business,Vaughn-Tucker,8,Rail,1005.21,km,2026-05-09,IndiGo,173125.72
+TRV0050,EMP710,Bus,New Ambermouth,Port Danielle,First,"Ray, Todd and Whitney",8,Rail,6371.27,km,2026-01-04,Marriott,195370.67
+TRV0051,EMP233,Bus,East Tonya,Ashleyshire,Business,Jones-Crane,8,Road,9611.65,km,2025-06-16,IndiGo,81214.97
+TRV0052,EMP996,Rental Car,Richardsonchester,Morenoshire,First,Smith-Nelson,9,Rail,10048.91,miles,2026-04-03,IRCTC,17427.24
+TRV0053,EMP883,Hotel,North Ruben,West Patrick,Economy,Stevens-Yates,4,Road,3581.4,miles,2026-03-24,Marriott,167787.98
+TRV0054,EMP688,Bus,East Cheyenne,Schneiderbury,Business,"Luna, Gonzalez and Hess",1,Road,1185.51,miles,2025-10-03,IndiGo,13762.71
+TRV0055,EMP808,Flight,Larsonton,Port Nancyside,Business,Chavez-Mullen,10,Road,7942.12,miles,2026-05-16,IndiGo,46950.16
+TRV0056,EMP192,Rental Car,Parkerborough,West Laura,Business,"Riley, Love and Ho",9,Rail,3087.49,km,2026-04-26,Ola,153376.16
+TRV0057,EMP945,Train,Port Dale,West Taylormouth,Economy,"Griffin, Fitzpatrick and Green",5,Road,6769.24,km,2025-11-29,IRCTC,134469.95
+TRV0058,EMP456,Taxi,East Levishire,Lake Michael,Business,Moreno-Kramer,2,Air,6065.11,miles,2025-06-23,IndiGo,152741.03
+TRV0059,EMP565,Rental Car,Millerhaven,Ramseyhaven,Business,Zamora-Keller,10,Air,2231.94,miles,2025-09-20,IRCTC,153012.15
+TRV0060,EMP900,Taxi,West Pamela,Port Jacqueline,First,"Parker, Mills and Brown",6,Road,1895.43,miles,2025-09-18,Marriott,191244.24
+TRV0061,EMP378,Train,Wilsonton,North Christinaport,Economy,"Contreras, Brown and Pierce",7,Rail,11197.28,miles,2025-12-14,IndiGo,126938.95
+TRV0062,EMP927,Flight,West Tracy,Mooneytown,Business,Yates-Thomas,5,Air,7722.73,km,2025-10-19,IRCTC,97468.26
+TRV0063,EMP611,Taxi,South James,Alyssastad,Economy,Obrien-Roberts,5,Air,10940.99,miles,2025-06-21,Marriott,145548.42
+TRV0064,EMP732,Taxi,North Tony,Stevensfurt,Business,"Buckley, Mclean and Glass",9,Rail,219.01,km,2025-11-29,Air India,115783.96
+TRV0065,EMP491,Train,South Michael,Kristenstad,Economy,Thomas LLC,4,Rail,4626.25,km,2025-06-06,IRCTC,151089.18
+TRV0066,EMP875,Rental Car,Henryside,Robertland,Economy,"Jones, Watkins and Lloyd",2,Road,3630.76,km,2025-12-22,IRCTC,150330.74
+TRV0067,EMP425,Bus,Parkerborough,South Jessica,Economy,Hayes and Sons,5,Air,1504.86,miles,2026-05-18,Air India,113835.94
+TRV0068,EMP245,Train,North Eric,Tylerton,Economy,"Roman, Smith and Morgan",9,Rail,12002.43,km,2026-04-11,Uber,86943.0
+TRV0069,EMP745,Bus,Caitlinland,Katelynland,Business,"Wall, Nichols and Johnson",10,Air,3281.8,km,2026-01-12,Marriott,17891.28
+TRV0070,EMP392,Flight,North Michaelhaven,New Christopherland,First,"Hall, Ferguson and Edwards",9,Rail,269.1,km,2025-09-23,Marriott,71418.0
+TRV0071,EMP450,Rental Car,Maryside,West Mitchellton,Economy,Rodriguez-Myers,5,Road,2391.63,km,2025-10-10,IRCTC,113968.38
+TRV0072,EMP981,Bus,New Michaela,West Danielshire,First,"Gibson, Hall and Brown",6,Air,7369.26,miles,2025-09-17,Ola,66010.42
+TRV0073,EMP836,Taxi,Meyerstad,Donovanmouth,First,"Cobb, Moon and Preston",10,Road,3096.56,miles,2026-01-02,IRCTC,22665.43
+TRV0074,EMP846,Rental Car,Lambertside,Moorefurt,Business,Moss-Lynch,7,Air,14640.38,miles,2026-03-19,Ola,99333.76
+TRV0075,EMP543,Taxi,Nguyenfurt,Robertborough,First,Wallace and Sons,2,Air,296.37,miles,2025-07-01,IndiGo,134073.0
+TRV0076,EMP560,Rental Car,Matthewmouth,Lake Amymouth,First,"Curry, Davis and Neal",1,Road,9692.7,km,2025-12-16,Air India,37368.54
+TRV0077,EMP161,Hotel,West Gregory,South Thomas,First,Henderson-Johnson,8,Rail,10986.17,miles,2025-06-11,Air India,102060.29
+TRV0078,EMP883,Train,Staceystad,Smithburgh,Economy,Patterson and Sons,3,Road,12596.57,km,2026-05-14,Ola,120495.93
+TRV0079,EMP545,Flight,West Mitchell,Rodriguezton,Economy,Murray Inc,6,Road,583.22,km,2025-08-10,Ola,43984.5
+TRV0080,EMP572,Flight,New Erinside,New Tyler,Business,Nielsen-Smith,9,Air,12880.1,miles,2025-07-18,Uber,49313.18
+TRV0081,EMP860,Taxi,Christopherville,Meghanstad,First,Cannon Inc,1,Rail,12422.72,miles,2025-08-30,IndiGo,188304.79
+TRV0082,EMP817,Taxi,East Paul,Port Cheryl,Business,Lee-Maldonado,7,Road,8464.72,km,2025-10-09,IRCTC,93555.54
+TRV0083,EMP114,Bus,South Curtis,West Cory,Economy,"Gates, Thomas and Pearson",6,Air,3030.34,miles,2025-12-27,Ola,135676.08
+TRV0084,EMP414,Flight,New Feliciamouth,Thomaschester,Business,Young Ltd,3,Air,4404.68,km,2026-03-10,Ola,59299.17
+TRV0085,EMP515,Flight,New Christopherville,Pricemouth,Economy,"Wright, Smith and Hanson",7,Rail,8407.82,miles,2025-07-21,Uber,167355.42
+TRV0086,EMP700,Flight,South Jonhaven,North Aaronchester,Economy,"Perry, Leach and Vazquez",8,Rail,13000.84,km,2025-06-25,Air India,115817.24
+TRV0087,EMP571,Rental Car,South Christinefurt,Jonesmouth,Business,Webb-Gross,5,Rail,6368.57,km,2026-04-14,Marriott,3403.29
+TRV0088,EMP814,Rental Car,North Seth,Janetton,First,Thomas LLC,3,Rail,10736.47,miles,2025-09-07,Marriott,85133.96
+TRV0089,EMP177,Bus,East Phillip,Brittanyburgh,First,"Young, Allen and Mays",10,Road,10481.36,miles,2025-08-05,IRCTC,14006.3
+TRV0090,EMP503,Taxi,New Douglasland,Chelseaburgh,Economy,Patton PLC,7,Air,11051.64,miles,2026-03-17,Ola,93523.8
+TRV0091,EMP614,Hotel,Derekport,Kylebury,Business,"Perez, Hall and Caldwell",3,Air,4739.57,km,2026-02-12,Uber,122163.01
+TRV0092,EMP136,Train,South Kylefort,Matthewview,Economy,Davidson and Sons,1,Air,5509.48,miles,2025-05-29,IndiGo,79159.62
+TRV0093,EMP100,Bus,Port Sandraton,Port Erik,First,"Brown, Meyer and Juarez",9,Rail,6263.76,km,2026-05-02,Uber,112827.56
+TRV0094,EMP918,Bus,Chandlerfurt,Joshuaton,Business,Cherry-Mejia,10,Road,12263.09,miles,2025-11-26,Air India,39362.94
+TRV0095,EMP935,Flight,New Trevor,Angelaport,Economy,"Fisher, Coleman and Bell",2,Air,576.62,miles,2026-05-27,IRCTC,137447.98
+TRV0096,EMP496,Taxi,Corychester,New Michaelshire,First,Hawkins Group,6,Rail,6176.59,km,2025-09-17,Ola,79804.77
+TRV0097,EMP565,Taxi,Amyberg,North Josephport,First,"Harvey, Lucas and Stephenson",6,Air,11884.19,km,2025-10-06,Ola,117599.01
+TRV0098,EMP883,Rental Car,Perezbury,Port Steventown,Business,Schmidt and Sons,5,Air,8392.36,km,2026-03-11,Ola,8201.58
+TRV0099,EMP508,Rental Car,West Courtney,Caseyfort,Economy,Anderson-Beck,1,Road,3338.2,miles,2026-01-21,Air India,76078.21
+TRV0100,EMP682,Hotel,East Natalie,Omarhaven,First,Moore Inc,9,Road,8768.39,km,2025-10-31,IndiGo,17689.09

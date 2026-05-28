@@ -1,0 +1,101 @@
+BookingID,EmployeeID,ExpenseType,Origin,Destination,TravelClass,HotelName,Nights,TransportType,Distance,DistanceUnit,TravelDate,Vendor,Amount
+TRV0001,EMP001,Taxi,DXB,BLR,Business,Hyatt,5,Bus,805.94,km,02-01-2026,Uber,148483.73
+TRV0002,EMP002,Hotel,SIN,LHR,First,Hyatt,3,Train,3809.4,miles,03-01-2026,Air India,41093.32
+TRV0003,EMP003,Rental Car,DEL,BOM,Business,Hilton,4,Taxi,284.36,miles,04-01-2026,Uber,64689.65
+TRV0004,EMP004,Taxi,DEL,LHR,Business,Marriott,6,Bus,8165.6,miles,05-01-2026,Marriott,85037.68
+TRV0005,EMP005,Train,BOM,SFO,Business,Marriott,5,Bus,11298.09,km,06-01-2026,Marriott,119372.11
+TRV0006,EMP006,Rental Car,BLR,BLR,Economy,Marriott,6,Taxi,270.35,km,07-01-2026,IndiGo,124263.69
+TRV0007,EMP007,Rental Car,DEL,BOM,Business,Hilton,2,Rental Car,11559.38,km,08-01-2026,IndiGo,115061.59
+TRV0008,EMP008,Rental Car,DEL,SFO,Economy,Hyatt,7,Bus,8410.11,miles,09-01-2026,Uber,20042.33
+TRV0009,EMP009,Hotel,BLR,BOM,Business,Taj Palace,6,Train,11831.63,miles,10-01-2026,IndiGo,123238.49
+TRV0010,EMP010,Flight,BOM,BOM,Business,Marriott,5,Bus,11229.31,miles,11-01-2026,Uber,147406.36
+TRV0011,EMP011,Hotel,DEL,SFO,First,Taj Palace,4,Rental Car,8649.14,km,12-01-2026,Marriott,19727.99
+TRV0012,EMP012,Hotel,BOM,SFO,Economy,Taj Palace,4,Train,7818.82,km,13-01-2026,Air India,29812.53
+TRV0013,EMP013,Flight,DXB,SFO,Economy,Hyatt,1,Taxi,6439.55,miles,14-01-2026,Marriott,100186.21
+TRV0014,EMP014,Hotel,DEL,SFO,First,Marriott,3,Taxi,10448.2,km,15-01-2026,Air India,98274.94
+TRV0015,EMP015,Taxi,DEL,SIN,Economy,Hilton,1,Taxi,10786.42,miles,16-01-2026,Uber,97751.24
+TRV0016,EMP016,Taxi,DXB,SFO,Economy,Hilton,6,Rental Car,952.27,miles,17-01-2026,Air India,59802.57
+TRV0017,EMP017,Taxi,DXB,SIN,Economy,Hilton,1,Bus,9488.81,miles,18-01-2026,IndiGo,87327.36
+TRV0018,EMP018,Hotel,DXB,LHR,Business,Marriott,6,Rental Car,10997.12,miles,19-01-2026,IndiGo,52291.2
+TRV0019,EMP019,Flight,DEL,SFO,Business,Hyatt,7,Bus,9369.09,km,20-01-2026,IndiGo,30348
+TRV0020,EMP020,Train,SIN,SIN,Economy,Taj Palace,4,Taxi,7487.55,miles,21-01-2026,Uber,113739.84
+TRV0021,EMP021,Flight,DXB,BLR,Business,Hyatt,6,Taxi,5871.98,miles,22-01-2026,Uber,33136.73
+TRV0022,EMP022,Flight,SIN,SFO,Business,Marriott,6,Train,2790.77,miles,23-01-2026,IndiGo,84567.87
+TRV0023,EMP023,Rental Car,SIN,SFO,Economy,Hyatt,2,Bus,10077.05,miles,24-01-2026,Marriott,56972.32
+TRV0024,EMP024,Hotel,DEL,LHR,First,Hyatt,5,Train,3933.93,km,25-01-2026,Air India,121359.21
+TRV0025,EMP025,Taxi,DXB,SIN,First,Marriott,3,Bus,1800.01,km,26-01-2026,Marriott,126592.94
+TRV0026,EMP026,Rental Car,SIN,BLR,Economy,Marriott,7,Taxi,2208.35,km,27-01-2026,Air India,1426.17
+TRV0027,EMP027,Train,BLR,SIN,Business,Taj Palace,4,Bus,18.66,miles,28-01-2026,Marriott,99423.64
+TRV0028,EMP028,Hotel,BOM,SIN,Economy,Hilton,6,Taxi,9722.26,miles,29-01-2026,Air India,102579.47
+TRV0029,EMP029,Hotel,BOM,LHR,Economy,Taj Palace,2,Taxi,1348.96,km,30-01-2026,Marriott,56791.32
+TRV0030,EMP030,Flight,SIN,BLR,First,Taj Palace,6,Taxi,0,km,31-01-2026,Uber,15933.48
+TRV0031,EMP031,Rental Car,BOM,LHR,First,Taj Palace,6,Taxi,9789.52,km,01-02-2026,Uber,134909.09
+TRV0032,EMP032,Hotel,BOM,LHR,First,Hilton,3,Taxi,9824.62,km,02-02-2026,IndiGo,9736.23
+TRV0033,EMP033,Flight,BOM,BLR,First,Marriott,6,Taxi,5462.89,km,03-02-2026,Marriott,54760.35
+TRV0034,EMP034,Taxi,DXB,BLR,First,Hilton,5,Bus,5940.77,miles,04-02-2026,Uber,94762.1
+TRV0035,EMP035,Taxi,SIN,SFO,Economy,Marriott,2,Bus,10318.75,miles,05-02-2026,Marriott,79229.69
+TRV0036,EMP036,Rental Car,BLR,BOM,First,Hyatt,6,Train,8218,miles,06-02-2026,Uber,163475.55
+TRV0037,EMP037,Taxi,BLR,BOM,Economy,Hyatt,1,Rental Car,5509.94,km,07-02-2026,Marriott,9137.48
+TRV0038,EMP038,Train,DXB,SFO,First,Marriott,1,Train,4678.02,miles,08-02-2026,Uber,32830.16
+TRV0039,EMP039,Flight,DXB,BOM,First,Taj Palace,2,Train,824.88,miles,09-02-2026,Marriott,79210.33
+TRV0040,EMP040,Hotel,DEL,BOM,Economy,Hilton,7,Rental Car,10903.74,km,10-02-2026,Uber,93431.01
+TRV0041,EMP041,Flight,DEL,LHR,First,Hyatt,5,Train,8561.81,km,11-02-2026,Air India,111718.22
+TRV0042,EMP042,Taxi,SIN,BOM,Economy,Marriott,6,Bus,11466.36,miles,12-02-2026,Uber,59573.75
+TRV0043,EMP043,Flight,DEL,SFO,Economy,Taj Palace,5,Rental Car,2741.75,miles,13-02-2026,Marriott,142709.41
+TRV0044,EMP044,Hotel,DEL,BOM,Business,Hyatt,4,Train,5264.66,miles,14-02-2026,Air India,118460.01
+TRV0045,EMP045,Flight,DEL,DEL,Economy,Hilton,2,Train,1640.89,miles,15-02-2026,Marriott,135234.64
+TRV0046,EMP046,Hotel,BOM,LHR,First,Taj Palace,1,Bus,10058.85,miles,16-02-2026,IndiGo,86416.48
+TRV0047,EMP047,Hotel,SIN,BLR,First,Marriott,2,Bus,2637.07,miles,17-02-2026,Uber,3256.49
+TRV0048,EMP048,Flight,BLR,LHR,First,Marriott,2,Train,4122.25,miles,18-02-2026,Marriott,130914.73
+TRV0049,EMP049,Train,DEL,BOM,Economy,Hilton,3,Rental Car,4101.42,miles,19-02-2026,Air India,113563.99
+TRV0050,EMP050,Train,BOM,SIN,Economy,Marriott,4,Bus,2543.19,km,20-02-2026,Uber,1851.81
+TRV0051,EMP051,Hotel,DEL,BLR,Economy,Marriott,2,Taxi,6183.93,km,21-02-2026,IndiGo,150671.81
+TRV0052,EMP052,Hotel,DEL,LHR,Business,Taj Palace,4,Taxi,4476.48,km,22-02-2026,Air India,54071.97
+TRV0053,EMP053,Taxi,BLR,SFO,Economy,Marriott,7,Bus,10009.44,km,23-02-2026,Uber,169462.21
+TRV0054,EMP054,Hotel,SIN,BLR,Economy,Hyatt,5,Rental Car,10527.19,km,24-02-2026,IndiGo,120233.55
+TRV0055,EMP055,Rental Car,DXB,BLR,Economy,Hyatt,6,Train,10923.84,miles,25-02-2026,Air India,96128.73
+TRV0056,EMP056,Train,DXB,BOM,First,Hyatt,5,Rental Car,10466.34,miles,26-02-2026,Marriott,141653.64
+TRV0057,EMP057,Rental Car,BLR,BLR,First,Hyatt,3,Bus,1871.7,km,27-02-2026,Uber,31881.74
+TRV0058,EMP058,Hotel,SIN,SFO,Business,Marriott,7,Rental Car,99.73,miles,28-02-2026,IndiGo,199807.09
+TRV0059,EMP059,Hotel,BOM,SFO,Business,Hyatt,7,Taxi,10236.29,miles,01-03-2026,Marriott,96720.15
+TRV0060,EMP060,Hotel,DEL,SFO,Economy,Marriott,7,Bus,0,miles,02-03-2026,Uber,49017.13
+TRV0061,EMP061,Flight,SIN,LHR,First,Hyatt,6,Rental Car,10178.58,km,03-03-2026,IndiGo,114162.56
+TRV0062,EMP062,Train,DXB,LHR,First,Taj Palace,7,Bus,10387.79,miles,04-03-2026,Air India,151950.93
+TRV0063,EMP063,Taxi,DEL,BOM,First,Hyatt,5,Train,1679.86,km,05-03-2026,Uber,16177.95
+TRV0064,EMP064,Flight,SIN,BOM,Economy,Hilton,7,Rental Car,2911.86,miles,06-03-2026,Uber,153880.13
+TRV0065,EMP065,Flight,SIN,BLR,First,Hyatt,6,Taxi,8495.51,km,07-03-2026,IndiGo,61552.74
+TRV0066,EMP066,Hotel,DXB,BLR,Business,Hyatt,3,Train,11306.25,miles,08-03-2026,Marriott,145991.61
+TRV0067,EMP067,Hotel,DXB,BLR,Economy,Hilton,3,Train,8719.15,miles,09-03-2026,Air India,133236.8
+TRV0068,EMP068,Flight,DXB,BOM,Economy,Hyatt,4,Train,11109.59,km,10-03-2026,Air India,75661.14
+TRV0069,EMP069,Flight,SIN,SFO,First,Taj Palace,3,Rental Car,4099.1,km,11-03-2026,Air India,55763.82
+TRV0070,EMP070,Hotel,DEL,LHR,Business,Hilton,3,Rental Car,7302.58,miles,12-03-2026,IndiGo,65115.27
+TRV0071,EMP071,Taxi,BOM,SIN,Economy,Hilton,6,Rental Car,3717.53,miles,13-03-2026,Marriott,101639.96
+TRV0072,EMP072,Flight,SIN,SIN,First,Taj Palace,4,Train,3896.5,miles,14-03-2026,IndiGo,22234.1
+TRV0073,EMP073,Flight,SIN,SIN,Economy,Marriott,1,Bus,8042.91,km,15-03-2026,Air India,135267.12
+TRV0074,EMP074,Taxi,DEL,LHR,Economy,Hyatt,1,Rental Car,7270.31,miles,16-03-2026,Uber,188045.14
+TRV0075,EMP075,Flight,BOM,SFO,Business,Hyatt,6,Taxi,10117.05,miles,17-03-2026,Marriott,44090.92
+TRV0076,EMP076,Flight,SIN,SFO,Economy,Hyatt,7,Train,4562.01,km,18-03-2026,IndiGo,44140.37
+TRV0077,EMP077,Rental Car,BLR,SFO,First,Hilton,2,Train,3240.74,km,19-03-2026,IndiGo,64593.81
+TRV0078,EMP078,Hotel,DXB,LHR,Business,Hyatt,1,Taxi,9269.24,km,20-03-2026,IndiGo,56817.91
+TRV0079,EMP079,Flight,BOM,LHR,First,Hyatt,3,Rental Car,2543.78,miles,21-03-2026,Marriott,150156.61
+TRV0080,EMP080,Rental Car,SIN,BLR,Economy,Taj Palace,7,Rental Car,5737.29,miles,22-03-2026,IndiGo,121086.11
+TRV0081,EMP081,Rental Car,BOM,BLR,Economy,Hyatt,3,Taxi,1545.23,miles,23-03-2026,IndiGo,188120.95
+TRV0082,EMP082,Train,BOM,SFO,Economy,Hilton,7,Bus,8538.31,miles,24-03-2026,IndiGo,84196.81
+TRV0083,EMP083,Train,SIN,LHR,Business,Hilton,5,Rental Car,9519.09,km,25-03-2026,Air India,54066.97
+TRV0084,EMP084,Train,BLR,LHR,Business,Hyatt,5,Train,1787.03,km,26-03-2026,IndiGo,13714.52
+TRV0085,EMP085,Flight,DXB,LHR,Business,Taj Palace,2,Rental Car,9569.64,km,27-03-2026,Uber,22435.56
+TRV0086,EMP086,Train,DXB,BOM,First,Marriott,1,Train,9848.74,miles,28-03-2026,Air India,143932.19
+TRV0087,EMP087,Train,SIN,SFO,First,Marriott,3,Train,5417.97,km,29-03-2026,Air India,117579.11
+TRV0088,EMP088,Hotel,BOM,BLR,Economy,Hilton,5,Bus,8105.02,km,30-03-2026,Marriott,184917.4
+TRV0089,EMP089,Taxi,SIN,BLR,Economy,Taj Palace,7,Train,10716.22,km,31-03-2026,Marriott,2485.25
+TRV0090,EMP090,Hotel,SIN,SIN,Economy,Marriott,4,Bus,0,miles,01-04-2026,Air India,40246.79
+TRV0091,EMP091,Train,SIN,LHR,Economy,Hilton,5,Train,9691.47,miles,02-04-2026,Marriott,184538.37
+TRV0092,EMP092,Flight,BLR,SFO,Business,Marriott,2,Bus,5939.62,miles,03-04-2026,Uber,198758.93
+TRV0093,EMP093,Rental Car,DXB,LHR,Economy,Hilton,5,Train,1656.3,km,04-04-2026,Air India,86680.89
+TRV0094,EMP094,Flight,SIN,BLR,First,Taj Palace,3,Bus,260.13,km,05-04-2026,IndiGo,3248.43
+TRV0095,EMP095,Hotel,BOM,BLR,Economy,Hilton,1,Bus,6823.94,km,06-04-2026,Marriott,150960.47
+TRV0096,EMP096,Rental Car,BLR,SIN,Economy,Hyatt,4,Train,11977.77,miles,07-04-2026,IndiGo,124549.48
+TRV0097,EMP097,Flight,DEL,BOM,Economy,Hyatt,6,Rental Car,4057.66,miles,08-04-2026,IndiGo,81058.55
+TRV0098,EMP098,Train,SIN,SIN,Economy,Marriott,2,Train,10880.49,km,09-04-2026,IndiGo,55858.83
+TRV0099,EMP099,Rental Car,DXB,SIN,First,Hilton,1,Train,2955.25,miles,10-04-2026,IndiGo,88373.15
+TRV0100,EMP100,Taxi,BLR,SIN,Economy,Hilton,4,Train,537.54,miles,11-04-2026,Air India,33274.1
