@@ -21,11 +21,7 @@ load_dotenv()
 
 DEBUG = os.getenv("DEBUG") == "True"
 
-ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "").split(",")
 
-ALLOWED_HOSTS = [
-    "https://emissions-normalization-engine.onrender.com",
-]
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
@@ -36,7 +32,14 @@ SECRET_KEY = 'django-insecure-q*zm#emao+5_nl(#ll_uo)&5f9)#3n!shlcrv$1u$&=)&w$2_a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "https://emissions-normalization-engine.onrender.com",
+]
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://emissions-normalization-engine.vercel.app",
+]
+
 
 
 # Application definition
