@@ -1,0 +1,95 @@
+# =========================
+# Django / Python Backend
+# =========================
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Media & Static
+media/
+staticfiles/
+
+# Migrations (optional)
+# Uncomment if you DON'T want migrations tracked
+# */migrations/*
+# !*/migrations/__init__.py
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Test / coverage
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# mypy
+.mypy_cache/
+
+# Ruff / Black
+.ruff_cache/
+
+# Logs
+logs/
+*.log
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Docker
+*.pid
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# PostgreSQL dumps
+*.sql
+
+# Uploaded CSVs / temp ingestion files
+uploads/
+tmp/
+temp/
+
+# Node modules (if frontend inside backend folder)
+node_modules/
+
+# Secrets / credentials
+secrets.json
+credentials.json
+
+# OS generated files
+ehthumbs.db
+Icon?
