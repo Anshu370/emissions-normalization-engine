@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-q*zm#emao+5_nl(#ll_uo)&5f9)#3n!shlcrv$1u$&=)&w$2_a
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://emissions-normalization-engine.onrender.com",
+    "emissions-normalization-engine.onrender.com",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
