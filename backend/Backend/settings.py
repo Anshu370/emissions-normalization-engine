@@ -24,9 +24,7 @@ DEBUG = os.getenv("DEBUG") == "True"
 ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "").split(",")
 
 ALLOWED_HOSTS = [
-    "emissions-normalization-engine.onrender.com",
-    "127.0.0.1",
-    "localhost"
+    "https://emissions-normalization-engine.onrender.com",
 ]
 
 # Quick-start development settings - unsuitable for production
